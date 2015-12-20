@@ -14,4 +14,6 @@ To use, run
 $ ./hantow <num>
 ```
 
-where ```<num>``` is an integer from 2-8. The program will print the solution to the problem in the console.
+on a Unix machine, where ```<num>``` is an integer from 2-8. The program will print the solution to the problem in the console.
+
+Of all files in this repo, only hantow.asm and makefile were coded by myself. The rest were provided by the professor.
